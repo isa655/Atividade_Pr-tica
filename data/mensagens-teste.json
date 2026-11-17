@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "usuario": "Maria",
+    "texto": "Minha primeira mensagem!"
+  },
+  {
+    "id": 2,
+    "usuario": "João",
+    "texto": "Mensagem salva com sucesso!"
+  }
+]
